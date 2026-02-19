@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-01-28T15:43:52.747577",
+    "prediction": "ham",
+    "confidence": 0.5946748410113367,
+    "email_preview": "Q4 Meeting Schedule Hi team, please review the att..."
+  },
+  {
+    "timestamp": "2026-01-28T15:43:52.748377",
+    "prediction": "spam",
+    "confidence": 0.6948731711269405,
+    "email_preview": "YOU WON!!! Congratulations! You won $1,000,000. Cl..."
+  },
+  {
+    "timestamp": "2026-01-28T15:43:52.749082",
+    "prediction": "spam",
+    "confidence": 0.699139254166798,
+    "email_preview": "Urgent: Verify Your Account Your account will be s..."
+  },
+  {
+    "timestamp": "2026-01-28T15:43:52.749677",
+    "prediction": "ham",
+    "confidence": 0.501453455446216,
+    "email_preview": "Weekly Tech News This week: New AI breakthroughs a..."
+  },
+  {
+    "timestamp": "2026-01-28T15:43:52.750288",
+    "prediction": "spam",
+    "confidence": 0.5097171722612817,
+    "email_preview": "Make Money Fast Work from home! Earn $5000 per wee..."
+  }
+]
